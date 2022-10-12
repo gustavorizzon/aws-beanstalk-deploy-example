@@ -1,0 +1,8 @@
+ApplicationName: <APP_NAME>
+AutoCreateApplication: true
+VersionLabel: <APP_VERSION>
+Description: <APP_DESCRIPTION>
+SourceBundle:
+  S3Bucket: <APP_BUCKET>
+  S3Key: <APP_SOURCE_BUNDLE>
+Process: true
