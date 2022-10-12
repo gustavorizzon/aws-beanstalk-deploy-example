@@ -1,8 +1,0 @@
-ApplicationName: <APP_NAME>
-EnvironmentName: <APP_NAME>-<STAGE>
-VersionLabel: <APP_VERSION>
-SolutionStackName: '64bit Amazon Linux 2 v5.6.0 running Node.js 16'
-OptionSettings:
-  - Namespace: 'aws:elasticbeanstalk:application:environment'
-    OptionName: 'ENV_DE_TESTE'
-    Value: 'valor da env de teste'
